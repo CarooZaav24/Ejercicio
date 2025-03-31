@@ -1,0 +1,15 @@
+html{
+    color: indianred;
+    background-color: blue;
+    font-family:"Lato", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    background-color: greenyellow;
+}
+
+h1{
+    color: mediumspringgreen;
+}
